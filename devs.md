@@ -1,8 +1,8 @@
 ## Software Engineer
 
 ```javascript
-const h2 = `my software developement`
-console.info(`This is ${h2} stack`)
+const h2 = () => 'my software developement';
+console.info(`This is ${h2()} stack`)
 ```
 
 ### Technologies - Full Stack
