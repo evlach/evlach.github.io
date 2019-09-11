@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## Evangelos page
 
-You can use the [editor on GitHub](https://github.com/evlach/evlach.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evlach/evlach.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Evangelos Vlachogiannis is currently a Senior Software Engineer at Cedalo AG. He is also an active Expert for H2020 European projects. Before, a senior researcher, developer and project coordinator at Fraunhofer Institute for Applied Information Technology FIT / Web Compliance Center since 1st Dec 2011. Before, he had been working as a researcher and instructor in the Products and Systems Design Engineering Department, University of the Aegean, Greece. He received his B.Eng. degree in Electronic and Electrical Engineering, University of Manchester, UK, in 2000, his M.Sc degree in Telecommunication and Information Systems, Essex University and his PhD degree from the Department of Products and Systems Design Engineering, University of the Aegean, Greece in 2008. He has co-authored several papers published in international journals and conference proceedings and has participated to a wide range of international and national projects with research and development roles. He has also been teaching computer science courses mostly at the University of the Aegean both at undergraduate and postgraduate level. He has been involved to a number of R&D national and international project playing different roles (Project Manager, Technical coordinator, researcher, developer).
