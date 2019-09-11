@@ -1,7 +1,7 @@
 ## Software Engineer
 
 ```javascript
-const h2 = () => 'my software developement';
+const h2 = () => 'my software development';
 console.info(`This is ${h2()} stack`)
 ```
 
