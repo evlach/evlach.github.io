@@ -8,7 +8,7 @@ Since Oct 2017, I am a Senior Software Engineer at [Cedalo AG](http://www.cedalo
 
 Between Dec 2011 and Sep 2017 I was part of the Fraunhofer Institute for Applied Information Technology FIT / Web Compliance Center (Germany) as a Senior Researcher / developer and sometimes project coordinator / manager.
 
-Between Oct 2002 - August 2017 I was a researcher and instructor in the Products and Systems Design Engineering Department, University of the Aegean, Greece from whre I received PhD in the field of Adaptive Web Information Systems.
+Between Oct 2002 - August 2017 I was a researcher and instructor at the Products and Systems Design Engineering Department, University of the Aegean, Greece from where I received my PhD in the field of Adaptive Web Information Systems.
 
 During 2001-2002 I did my M.Sc degree in Telecommunication and Information Systems, Essex University.
 
@@ -21,5 +21,7 @@ My passion was always and still is **programming**, I am a Senior full stack eng
 My most important achievents: my 3 lovely kids ;)
 
 {% include_relative devs.md %}
+
+{% include_relative projects.md %}
 
 {% include_relative pubs.md %}
