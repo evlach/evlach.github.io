@@ -44,5 +44,3 @@ console.info(`This is ${h2()} stack`)
 * Mobile
  * Resposive web design
  * Cordova / Ionic
-
-### Major tools
