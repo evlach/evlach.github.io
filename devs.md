@@ -10,31 +10,39 @@ console.info(`This is ${h2()} stack`)
 * Programming
   * NodeJS, 
   * Javascript,
+  * Typescript,
   * Java,
   * PHP 
 * DBs
   * MongoDB, 
   * Cassandra,
+  * Redis
   * MySQL
 * FrontEnd
   * ReactJS, REDUX, MaterialUI, 
   * AngularJS
   * CSS3
-  * HTML5 and APIs
+  * HTML5
 * Brokers / protocols
   * MQTT (Mosquitto), 
   * KAFKA, 
 * OpDev
-  * GIT
-  * Docker and docker-compose
+  * GIT, JIRA, Confluence
+  * Docker
   * Kubernetes
-  * Travis
-* Other
-  * JIRA, Confluence, Agile
-  * JSON-LD,
-  * Accessibility - WCAG
-  * Hl7 / Fhir
+  * CI/Travis
+* Testing / Web Scraping 
+  * Mocha
+  * Jest
+  * PhantomJS, casperjs, puppeteer
+* Web Accessibility
+* W3C Strandards
+* Data formats
+ * JSON / JSON-LD,
+ * XML / RDF
+ * Hl7 / Fhir (eHealth)
+* Mobile
+ * Resposive web design
+ * Cordova / Ionic
 
-### Professional Experience
-
-### Projects
+### Major tools
