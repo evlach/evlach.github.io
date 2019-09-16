@@ -1,5 +1,6 @@
 
 ### International Projects
+* [WADCher](https://wadcher.eu/)
 * [PICASO](https://www.picaso-project.eu/). PICASO H2020 Integrated Health project (5M €). Project Manager, •	PICASO platform lead architect and Developer (NodeJS, ExpressJS, Angular4, Typescript, Cassandra) 
 *   [BRIDGE](http://www.bridgeproject.eu/en): Bridging resources and agencies in large-scale emergency management (Technical Coordinator)
 *   [ABC Project](http://www.abc-project.eu/): ABC aims at increasing human capabilities by means of Brain/Neural Computer Interfaces (BNCI).
