@@ -4,7 +4,9 @@ title: Evangelos Vlachogiannis
 
 ## Introduction
 
-Since Oct 2017, I am a Senior Software Engineer at [Cedalo AG](http://www.cedalo.com). I am also an active Expert for H2020 European projects.
+Currently, I am working as a freelancer working on the field IoT, Web Accessibility and eHealth. I am working for WADcher EU project and I am also an active Expert for H2020 European projects.
+
+Between Oct 2017 and end of Oct 2019, I was a Senior Software Engineer at [Cedalo AG](http://www.cedalo.com). I am co-founder of [Cedalo AG](http://www.cedalo.com). 
 
 Between Dec 2011 and Sep 2017 I was part of the Fraunhofer Institute for Applied Information Technology FIT / Web Compliance Center (Germany) as a Senior Researcher / developer and sometimes project coordinator / manager.
 
