@@ -4,7 +4,7 @@ title: Evangelos Vlachogiannis
 
 ## Introduction
 
-Currently, I am working as a freelancer in the field IoT, Web Accessibility and eHealth. At the moment I am partner with [Dextera Consulting](https://www.dexteraconsulting.com/) and working for WADcher EU project. I am also an active Expert for H2020 European projects.
+Currently, I am working as a freelancer in the field IoT, Web Accessibility and eHealth. I am working as an external expert partner of [Dextera Consulting](https://www.dexteraconsulting.com/) at WADcher EU project. I am also an active Expert for H2020 European projects.
 
 Between Oct 2017 and end of Oct 2019, I was a Senior Software Engineer at [Cedalo AG](http://www.cedalo.com). I am co-founder of [Cedalo AG](http://www.cedalo.com). 
 
