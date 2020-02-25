@@ -23,6 +23,7 @@ console.info(`This is ${h2()} stack`)
   * HTML5
 * Brokers / protocols
   * MQTT (Mosquitto), 
+  * AMPQ / STOMP (RabbitMQ)
   * KAFKA, 
 * OpDev
   * GIT, JIRA, Confluence
@@ -32,7 +33,7 @@ console.info(`This is ${h2()} stack`)
 * Testing / Web Scraping 
   * Mocha
   * Jest
-  * PhantomJS, casperjs, puppeteer
+  * PhantomJS, casperjs, Puppeteer
 * Web Accessibility
 * W3C Strandards
 * Data formats
