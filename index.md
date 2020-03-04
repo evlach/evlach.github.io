@@ -4,9 +4,9 @@ title: Evangelos Vlachogiannis website
 
 ## Introduction
 
-Currently, I am working as a freelancer in the field IoT, Web Accessibility and eHealth. I am working as an external expert partner of [Dextera Consulting](https://www.dexteraconsulting.com/) at WADcher EU project. I am also an active Expert for H2020 European projects.
+I am a freelancer in the field IoT, Web Accessibility and eHealth. I am currently working as an expert for [Dextera Consulting](https://www.dexteraconsulting.com/) mostly for WADcher EU project. I am an opensource committer at [iot.streamsheets project](https://projects.eclipse.org/projects/iot.streamsheets). I am also an active Expert for H2020 European projects.
 
-Between Oct 2017 and end of Oct 2019, I was a Senior Software Engineer at [Cedalo AG](http://www.cedalo.com). I am co-founder of [Cedalo AG](http://www.cedalo.com). 
+Between Oct 2017 and end of Oct 2019, I was one of the co-founder and Senior Software Engineer at [Cedalo AG](http://www.cedalo.com). 
 
 Between Dec 2011 and Sep 2017 I was part of the Fraunhofer Institute for Applied Information Technology FIT / Web Compliance Center (Germany) as a Senior Researcher / developer and sometimes project coordinator / manager.
 
@@ -21,6 +21,11 @@ I have co-authored several papers published in international journals and confer
 My passion was always and still is **programming**, I am a Senior full stack engineer.
 
 My most important achievents: my 3 lovely kids ;)
+
+Networks:
+
+* [https://www.linkedin.com/in/evangelos-vlachogiannis](linkedin)
+* [https://github.com/evlach](github)
 
 {% include_relative devs.md %}
 
